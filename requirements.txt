@@ -1,0 +1,9 @@
+streamlit
+finance-datareader
+pandas
+numpy
+xgboost
+requests
+beautifulsoup4
+plotly
+lxml
