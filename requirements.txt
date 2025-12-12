@@ -6,4 +6,4 @@ xgboost
 requests
 beautifulsoup4
 plotly
-lxml
+yfinance
